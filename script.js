@@ -8,7 +8,7 @@
         document.querySelector("#rate").onchange = function()
         {
              var rateval = document.getElementById("rate").value;
-             document.getElementById("rate_val").innerText=rateval;
+             document.getElementById("rate_val").innerHTML=rateval;
         }
     });
     document.addEventListener("DOMContentLoaded", funtion() {
