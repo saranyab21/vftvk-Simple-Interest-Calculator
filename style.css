@@ -15,5 +15,13 @@ h1 {
      border-radius: 25px;
      align: center;
  }  
+footer{
+    margin-top: 200px;
+    text-align: center;
+}
 
+p {
+    background-color: yellow;
+    display:inline;
+}
 
