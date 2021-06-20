@@ -16,12 +16,9 @@ function compute()
     
 }
 
-     
 function updateRate(rate) 
 {
-   
     document.getElementById("rate_val").innerText=rate;
-
 }
 
         
